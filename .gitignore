@@ -1,0 +1,44 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+.venv/
+env/
+*.env
+*.venv
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Dataset folders (images + annotations)
+datasets/
+*.zip
+*.tar.gz
+
+# YOLO / model outputs
+runs/
+weights/
+*.pt
+*.pth
+*.ckpt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Checkpoints / progress files
+processed_images.txt
