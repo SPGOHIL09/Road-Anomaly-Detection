@@ -9,6 +9,8 @@ env/
 *.env
 *.venv
 .idea/
+*.myenv
+.myenv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
