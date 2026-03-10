@@ -17,6 +17,7 @@ env/
 
 # Dataset folders (images + annotations)
 datasets/
+predictions/
 *.zip
 *.tar.gz
 
